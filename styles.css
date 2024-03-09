@@ -1,0 +1,45 @@
+body {
+    font-family: "GT Super", Times, serif;
+    margin: 22px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 22px;
+}
+
+header, footer {
+    background-color: #128;
+    color: ##DDA0DD;
+    padding: 12px;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+}
+
+main {
+    background-color: #6495ED;
+    padding: 22px;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+}
